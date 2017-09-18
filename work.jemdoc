@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{projects.html}
+{{<link rel="stylesheet" href="./files/person.css" type="text/css">}}
+= Work Experience
+== Samsung Electronics Korea
+*Software Engineering Intern -- Security Lab, Software R&D centre, 2016*
+- Ported a host based instrusion detection system for linux onto Samsung's Tizen OS
+- Developed an application for Tizen3.0 for process monitoring via log parsing 
+- App features a user-friendly UI, notification alerts and active response to misbehaving processes
+
+== Institute of Science and Technology, Austria
+*Visiting Scientist -- under prof. Krishnendu Chatterjee, 2015*
+- Built an implementation for weighted recursive state machines (RSMs)
+- Implemented a reachability algorithm on RSMs with finite-height semiring weights 
+- Established significant speed improvement over jMoped. Results published in ESOP '17 
