@@ -13,102 +13,63 @@
 <td id="layout-menu">
 <div class="menu-category">Samarth &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
 <div class="menu-item"><a href="index.html">Home</a></div>
-<div class="menu-item"><a href="work.html">Work&nbsp;Experience</a></div>
-<div class="menu-item"><a href="teaching.html">Teaching&nbsp;Experience</a></div>
+<div class="menu-item"><a href="experience.html">Experience</a></div>
+<div class="menu-item"><a href="projects.html" class="current">Projects</a></div>
 <div class="menu-item"><a href="resume.pdf">Download&nbsp;Resume</a></div>
 </td>
 <td id="layout-content">
 <p><link rel="stylesheet" href="./files/person.css" type="text/css"></p>
-<h1>Samarth Mishra &ndash; Projects</h1>
-<h2>Fall 2015</h2>
-<h3>Multiplayer Mean Pay-off Games (Ongoing)</h3>
-<p>Guide: <i>Prof. S. Krishna, IIT Bombay</i></p>
+<h1>Key Projects</h1>
+<h2>GPGPU solutions for Linear Least Squares Problem </h2>
+<p><b> CSE 6643 - Numerical Linear Algebra, Spring 2018 </b></p>
 <ul>
-<li><p>Analysing different kinds of equilibria in multiplayer mean pay-off games in the timed game scenario</p>
+<li><p>Implemented the following general purpose GPU (GPGPU) solutions in CUDA for the linear least squares prob-
+lem and compared with the corresponding CPU implementations : Householder QR decomposition,
+Cholesky decompostion and Givens QR decompostion</p>
 </li>
-<li><p>Finding methods for determining existence of such equilibria, and ways to construct them</p>
+<li><p><a href="./NLA_report.pdf">Report</a> and <a href="./NLA_presentation.pdf">Presentation</a></p>
 </li>
 </ul>
-<h2>Summer Research Internship 2015</h2>
-<h3>Recursive State Machines and Model Checking</h3>
-<p>Guide: <i>Prof. Krishnendu Chatterjee, IST Austria</i></p>
+<h2>Kernel Dictionary Learning</h2>
+<p><b> Bachelor's Thesis, Fall 2016 - Spring 2017 </b></p>
 <ul>
-<li><p>Developed an implementation in Java for a kind of automaton called Recursive State Machines(RSM)</p>
+<li><p>Implemented kernel dictionary learning on spherical manifold and compared against a euclidean
+baseline</p>
 </li>
-<li><p>Studied the tool Jmoped which models java programs as Push Down Systems(PDS)</p>
+<li><p>Studied the effect of different regularizers</p>
 </li>
-<li><p>Built a translator from the PDS(produced by Jmoped) to an RSM</p>
+<li><p>Performed ablation studies on an image classification task for different image noise levels and varying regularization parameters</p>
 </li>
-<li><p>Worked on designing, and implemented an algorithm for abstract weighted reachability in RSM</p>
-</li>
-<li><p>The algorithm is both theoretically(in some cases) and practically faster than reachability computation in the PDS</p>
+<li><p><a href="./thesis_report.pdf">Thesis Report</a></p>
 </li>
 </ul>
-<h2>Spring 2015</h2>
-<h3>Finite State Machine Design and Implementation (UART)</h3>
-<p>Guide: <i>Prof Ashutosh Trivedi, IIT Bombay</i></p>
+<h2>Medical Image Segmentation : DeepCut</h2>
+<p><b> CS 736 - Algorithms for Medical Image Processing, Spring 2017 </b></p>
 <ul>
-<li><p>Designed Finite State Machines for various modules of a Universal Asynchronous Receiver/Transmitter (UART)</p>
+<li><p>Implemented DeepCut image segmentation algorithm and used it to segment out the heart from human chest MR images.</p>
 </li>
-<li><p>Implemented the above in VHDL, using Xilinx ISE and tested by running on a Spartan 6, FPGA board </p>
+<li><p>Used a conv net for soft segmentation and a dense CRF for regularization and hard segmentation.</p>
+</li>
+<li><p><a href="./MIP_report.pdf">Report</a> </p>
 </li>
 </ul>
-<h3>Client Server Messenger - programming based project </h3>
-<p>Guide: <i>Prof. Kameshwari Chebrolu, IIT Bombay</i></p>
+<h2>Reinforcement Learning : Carrom playing bot</h2>
+<p><b> CS 747 - Foundations of Intelligent and Learning Agents, Fall 2016 </b></p>
 <ul>
-<li><p>Used socket programming libraries of C<tt></tt> to design a simple server to chat with clients</p>
+<li><p>Implemented and evaluated three different strategies (deep Q-learning, deep deterministic policy gradients, and hand coding heuristics) for building a carrom playing bot.</p>
 </li>
-<li><p>The server could chat with up to 30 clients simultaneously</p>
-</li>
-<li><p>Implemented commands to converse with server</p>
+<li><p><a href="./FILA_report.pdf">Report</a></p>
 </li>
 </ul>
-<h2>Fall 2014</h2>
-<h3>Unit Canonicalization and Country Identification Module</h3>
-<p>Guide: <i>Prof. Ganesh Ramakrishnan, IIT Bombay</i></p>
+<h2>Equillibria in multiplayer timed games</h2>
+<p><b> RnD project, Fall 2015 </b></p>
 <ul>
-<li><p>Built a sentence-fact identification tool, by comparing the facts stated in a sentence against a knowledge base of already known facts</p>
-</li>
-<li><p>Designed a suitable index for it, as a confidence score assigned to a sentence being about some fact</p>
-</li>
-</ul>
-<h3>JEE Seat Allocation System</h3>
-<p>Guide: <i>Prof. Sharat Chandran, IIT Bombay</i></p>
-<ul>
-<li><p>Developed a Java program which allocated college seats to applicants using a merit order allocation algorithm</p>
-</li>
-<li><p>Built a GUI using Tkinter Library in Python where the student can fill in preferences and view past year statistics</p>
-</li>
-</ul>
-<h3>Simulation of a Rube Goldberg Machine</h3>
-<p>Guide: <i>Prof. Sharat Chandran, IIT Bombay</i></p>
-<ul>
-<li><p>Simulated a Rube Goldberg Machine in C<tt></tt> using a 2D physics engine called box2D</p>
-</li>
-<li><p>Used various components such as balls, pendulums, conveyors and dominoes in the simulation</p>
-</li>
-</ul>
-<h2>Spring 2013</h2>
-<h3>Signal Generator</h3>
-<p>Guide: <i>Prof. J. Vasi, IIT Bombay</i></p>
-<ul>
-<li><p>Built an electronic circuit which could generate standard signals(sinusoidal, triangular and square waves) of given frequencies and amplitudes</p>
-</li>
-<li><p>The above was achieved using OP-AMP circuits : Wein-Bridge oscillator, Schmidtt triggers and integrators</p>
-</li>
-</ul>
-<h2>Fall 2013</h2>
-<h3>Polynomial Graphing Calculator</h3>
-<p>Guide: <i>Prof. Supratim Biswas, IIT Bombay</i></p>
-<ul>
-<li><p>Developed a calculator which could perform different operations on polynomials, besides plotting graphs (written in C<tt></tt> 4.3.2 in a simpleCPP environment)</p>
-</li>
-<li><p>Has a graphical user interface, made using a graphics library, simpleCPP, developed at IIT Bomba</p>
+<li><p>Proved undecidability of determining the existence of cost-bounded (Nash, Stackelberg or Incentive) equilibrium for a timed multiplayer non-competetive game with 3 or more clocks</p>
 </li>
 </ul>
 <div id="footer">
 <div id="footer-text">
-Page generated 2018-01-28 22:12:43 EST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Page generated 2018-08-28 15:33:24 EDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 </div>
 </div>
 </td>

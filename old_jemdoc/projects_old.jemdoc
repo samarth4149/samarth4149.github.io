@@ -1,0 +1,58 @@
+# jemdoc: menu{MENU}{projects.html}
+{{<link rel="stylesheet" href="./files/person.css" type="text/css">}}
+= Samarth Mishra -- Projects
+== Fall 2015
+
+=== Multiplayer Mean Pay-off Games (Ongoing)
+Guide: /Prof. S. Krishna, IIT Bombay/
+- Analysing different kinds of equilibria in multiplayer mean pay-off games in the timed game scenario
+- Finding methods for determining existence of such equilibria, and ways to construct them
+
+== Summer Research Internship 2015
+=== Recursive State Machines and Model Checking
+Guide: /Prof. Krishnendu Chatterjee, IST Austria/
+- Developed an implementation in Java for a kind of automaton called Recursive State Machines(RSM)
+- Studied the tool Jmoped which models java programs as Push Down Systems(PDS)
+- Built a translator from the PDS(produced by Jmoped) to an RSM
+- Worked on designing, and implemented an algorithm for abstract weighted reachability in RSM
+- The algorithm is both theoretically(in some cases) and practically faster than reachability computation in the PDS
+
+== Spring 2015
+=== Finite State Machine Design and Implementation (UART)
+Guide: /Prof Ashutosh Trivedi, IIT Bombay/
+- Designed Finite State Machines for various modules of a Universal Asynchronous Receiver/Transmitter (UART)
+- Implemented the above in VHDL, using Xilinx ISE and tested by running on a Spartan 6, FPGA board 
+
+=== Client Server Messenger - programming based project 
+Guide: /Prof. Kameshwari Chebrolu, IIT Bombay/
+- Used socket programming libraries of C++ to design a simple server to chat with clients
+- The server could chat with up to 30 clients simultaneously
+- Implemented commands to converse with server
+
+== Fall 2014
+=== Unit Canonicalization and Country Identification Module
+Guide: /Prof. Ganesh Ramakrishnan, IIT Bombay/
+- Built a sentence-fact identification tool, by comparing the facts stated in a sentence against a knowledge base of already known facts
+- Designed a suitable index for it, as a confidence score assigned to a sentence being about some fact
+
+=== JEE Seat Allocation System
+Guide: /Prof. Sharat Chandran, IIT Bombay/
+- Developed a Java program which allocated college seats to applicants using a merit order allocation algorithm
+- Built a GUI using Tkinter Library in Python where the student can fill in preferences and view past year statistics
+
+=== Simulation of a Rube Goldberg Machine
+Guide: /Prof. Sharat Chandran, IIT Bombay/
+- Simulated a Rube Goldberg Machine in C++ using a 2D physics engine called box2D
+- Used various components such as balls, pendulums, conveyors and dominoes in the simulation
+
+== Spring 2013
+=== Signal Generator
+Guide: /Prof. J. Vasi, IIT Bombay/
+- Built an electronic circuit which could generate standard signals(sinusoidal, triangular and square waves) of given frequencies and amplitudes
+- The above was achieved using OP-AMP circuits : Wein-Bridge oscillator, Schmidtt triggers and integrators
+
+== Fall 2013
+=== Polynomial Graphing Calculator
+Guide: /Prof. Supratim Biswas, IIT Bombay/
+- Developed a calculator which could perform different operations on polynomials, besides plotting graphs (written in C++ 4.3.2 in a simpleCPP environment)
+- Has a graphical user interface, made using a graphics library, simpleCPP, developed at IIT Bombay
