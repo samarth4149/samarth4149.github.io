@@ -18,13 +18,13 @@ baseline
 
 == Medical Image Segmentation : DeepCut
 * CS 736 - Algorithms for Medical Image Processing, Spring 2017 *
-- Implemented DeepCut image segmentation algorithm and used it to segment out the heart from human chest MR images.
-- Used a conv net for soft segmentation and a dense CRF for regularization and hard segmentation.
+- Implemented DeepCut image segmentation algorithm and used it to segment out the heart from human chest MR images
+- Used a conv net for soft segmentation and a dense CRF for regularization and hard segmentation
 - [./MIP_report.pdf Report] 
 
 == Reinforcement Learning : Carrom playing bot
 * CS 747 - Foundations of Intelligent and Learning Agents, Fall 2016 *
-- Implemented and evaluated three different strategies (deep Q-learning, deep deterministic policy gradients, and hand coding heuristics) for building a carrom playing bot.
+- Implemented and evaluated three different strategies (deep Q-learning, deep deterministic policy gradients, and hand coding heuristics) for building a carrom playing bot
 - [./FILA_report.pdf Report]
 
 == Equillibria in multiplayer timed games
