@@ -14,7 +14,7 @@ Cholesky decompostion and Givens QR decompostion
 baseline
 - Studied the effect of different regularizers
 - Performed ablation studies on an image classification task for different image noise levels and varying regularization parameters
-- [./thesis_report.pdf Thesis Report]
+- [./thesis_report.pdf Thesis Report] and [./BTP_pres.pdf Presentation]
 
 == Medical Image Segmentation : DeepCut
 * CS 736 - Algorithms for Medical Image Processing, Spring 2017 *
