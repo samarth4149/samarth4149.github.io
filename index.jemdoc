@@ -20,15 +20,9 @@ Matriculation | [http://www.dpsbhilai.in/ Delhi Public School, Bhilai] | 2006-20
 ~~~
 
 == Interests
-- Machine Learning - Computer Vision, Learning Agents
-- Automata Theory and Games
+- Computer Vision, Machine Learning
 
-== Publications
-- K. Chatterjee, B. Kragl, S. Mishra, A. Pavlogiannis: \n
-	Faster Algorithms for Weighted Recursive State Machines. \n
-	ESOP 2017 [https://arxiv.org/abs/1701.04914 \[arxiv\]]
-
-== Key Courses Taken
+== Key Courses Completed
 === Undergrad Major Courses 
 - Networks
 - Databases
@@ -51,12 +45,17 @@ Matriculation | [http://www.dpsbhilai.in/ Delhi Public School, Bhilai] | 2006-20
 - Machine Learning for Trading 
 
 *IIT Bombay*
-- Advanced Machine Learning 
+- Advanced Machine Learning (Probabilistic Graphical Models and Deep Learning)
 - Foundations of Intelligent and Learning Agents 
 - Algorithms in Medical Image Processing 
 - Digital Image Processing 
 - Foundations of Parallel Computation 
 - Program Derivation 
+
+== Publications
+- K. Chatterjee, B. Kragl, S. Mishra, A. Pavlogiannis: \n
+	Faster Algorithms for Weighted Recursive State Machines. \n
+	ESOP 2017 [https://arxiv.org/abs/1701.04914 \[arxiv\]]
 
 == Resume
 - Click [./resume.pdf here] to view my resume
