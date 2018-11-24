@@ -25,7 +25,7 @@ on a multi-cluster management database using semantic parsing and machine learni
 Guide : prof. Krishnendu Chatterjee
 - Implemented a fast reachability algorithm on weighted recursive state machines(RSMs) with finite height semiring weights
 - Established significant speed improvements over jMoped
-- Results published European Symposium of Programming (ESOP), 2017 [https://arxiv.org/abs/1701.04914 \[arxiv\]] 
+- Results published in the European Symposium of Programming (ESOP), 2017 [https://arxiv.org/abs/1701.04914 \[arxiv\]] 
 
 = Teaching 
 == Graduate Teaching Assistant
