@@ -4,9 +4,11 @@
 == Graduate Student Researcher
 * Georgia Institute of Technology, Atlanta, GA -- Fall 2017 - present * \n
 Guide : prof. James M. Rehg
-- Developed a new synthetic environment and a dataset of rendered objects, for incremental object learning
-- Implemented three incremental learning algorithms and studied behavior on three different incremental learning tasks, across multiple datasets.
-- Findings currently under review [soon to be on arxiv] 
+- Developed a new dataset of rendered objects, for incremental object recognition learning and demonstrated dataset complexity by a transfer experiment to real world images
+- Established baselines and studied ablations for incremental learning methods in the novel problem
+setting of self-directed learning
+- Working on solving the catastrophic forgetting problem via robust feature representation learning
+- Work in preparation for submission to CVPR'19
 
 == MTS Intern (Machine Learning)
 * Nutanix, Inc. San Jose, CA -- Summer 2018 * 

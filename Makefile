@@ -1,10 +1,10 @@
-DOCS=index resume projects courses
+DOCS=index resume projects experience
 
 .PHONY : update
 update : 
 	@echo -n 'Copying to server...'
 	@git add --all .
-	@git commit -m "Something"
+	@git commit -m "Updating webpage"
 	@git push
 	@echo ' done.'
 
