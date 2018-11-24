@@ -6,7 +6,7 @@
 Guide : prof. James M. Rehg
 - Developed a new synthetic data generating environment, Continual Recognition Insipired by Babies (CRIB), and a dataset - Toys-200 of rendered objects, for incremental object learning
 - Implemented three incremental learning algorithms and studied behavior on three different incremental learning tasks, across multiple datasets -- CIFAR100, ShapeNet, Toys-200 
-- Findings currently under review [soon to be on arxiv] 
+- Findings currently under review \[soon to be on arxiv\] 
 
 == MTS Intern (Machine Learning)
 * Nutanix, Inc. San Jose, CA -- Summer 2018 * 
