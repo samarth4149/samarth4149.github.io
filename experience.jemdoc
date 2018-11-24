@@ -4,7 +4,7 @@
 == Graduate Student Researcher
 * Georgia Institute of Technology, Atlanta, GA -- Fall 2017 - present * \n
 Guide : prof. James M. Rehg
-- Developed a new synthetic data generating environment, Continual Recognition Insipired by Babies (CRIB), and a dataset - Toys-200 of rendered objects, for incremental object learning
+- Developed a new synthetic data generating environment--Continual Recognition Insipired by Babies (CRIB) for incremental object learning, coupled with a 3D object dataset of 200 unique toy like objects, Toys-200
 - Implemented three incremental learning algorithms and studied behavior on three different incremental learning tasks, across multiple datasets -- CIFAR100, ShapeNet, Toys-200 
 - Findings currently under review \[soon to be on arxiv\] 
 
