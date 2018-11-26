@@ -4,8 +4,7 @@
 == GPGPU solutions for Linear Least Squares Problem 
 * CSE 6643 - Numerical Linear Algebra, Spring 2018 * \n
 Guide : prof. Haesun Park
-- Implemented the following general purpose GPU (GPGPU) solutions in CUDA for the linear least squares prob-
-lem and compared with the corresponding CPU implementations : Householder QR decomposition,
+- Implemented the following general purpose GPU (GPGPU) solutions in CUDA for the linear least squares problem and compared with the corresponding CPU implementations : Householder QR decomposition,
 Cholesky decompostion and Givens QR decompostion
 - [./NLA_report.pdf Report] and [./NLA_presentation.pdf Presentation]
 
