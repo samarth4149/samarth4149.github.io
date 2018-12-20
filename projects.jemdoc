@@ -3,37 +3,36 @@
 = Key Projects
 == GPGPU solutions for Linear Least Squares Problem 
 * CSE 6643 - Numerical Linear Algebra, Spring 2018 * \n
-Guide : prof. Haesun Park
-- Implemented the following general purpose GPU (GPGPU) solutions in CUDA for the linear least squares problem and compared with the corresponding CPU implementations : Householder QR decomposition,
-Cholesky decompostion and Givens QR decompostion
+Guide : Prof. Haesun Park
+- Implemented three general purpose GPU solutions for the linear least squares problem---Householder QR decomposition, Cholesky decomposition and Givens QR decomposition--- and their CPU counterparts for comparison on a 2D pose graph optimization problem solvable by Newton's method
 - [./NLA_report.pdf Report] and [./NLA_presentation.pdf Presentation]
 
 == Kernel Dictionary Learning
 * Bachelor's Thesis, Fall 2016 - Spring 2017 * \n
-Guide : prof. Suyash P. Awate
-- Implemented kernel dictionary learning on spherical manifold and compared against a euclidean
-baseline
-- Studied the effect of different regularizers
-- Performed ablation studies on an image classification task for different image noise levels and varying regularization parameters
+Guide : Prof. Suyash P. Awate
+- Implemented a kernel dictionary learning algorithm for data on spherical manifolds
+- Demonstrated effective application in image denoising and image classification tasks
+- Studied the effect of different regularizers and kernels, on robustness in classification performance of the algorithm, under different kinds and intensities of noise, on MNIST handwritten digits dataset
 - [./thesis_report.pdf Thesis Report] and [./BTP_pres.pdf Presentation]
 
 == Medical Image Segmentation : DeepCut
 * CS 736 - Algorithms for Medical Image Processing, Spring 2017 * \n
-Guide : prof. Suyash P. Awate
-- Implemented DeepCut image segmentation algorithm and used it to segment out the heart from human chest MR images
-- Used a conv net for soft segmentation and a dense CRF for regularization and hard segmentation
+Guide : Prof. Suyash P. Awate
+- Implemented DeepCut segmentation algorithm for finding segmentation of the heart from human chest MR images, using user-input bounding box annotations
+- Used an iterative procedure of fuzzy pixel mask generation using a conv net and refinement using a dense conditional random field (CRF
 - [./MIP_report.pdf Report] 
 
 == Reinforcement Learning : Carrom playing bot
 * CS 747 - Foundations of Intelligent and Learning Agents, Fall 2016 * \n
-Guide : prof. Shivaram Kalyanakrishnan
-- Implemented and evaluated three different strategies (deep Q-learning, deep deterministic policy gradients, and hand coding heuristics) for building a carrom playing bot
+Guide : Prof. Shivaram Kalyanakrishnan
+- Implemented and evaluated three approaches of building a carrom playing bot --- deep Q-learning, deep deterministic policy gradients and using hand-coded heuristics
 - [./FILA_report.pdf Report]
 
 == Equillibria in multiplayer timed games
 * RnD project, Fall 2015 * \n
-Guide : prof. Krishna S.
-- Proved undecidability of determining the existence of cost-bounded (Nash, Stackelberg or Incentive) equilibrium for a timed multiplayer non-competetive game with 3 or more clocks
+Guide : Prof. Krishna S.
+- Studied different equilibria in sequential non-competitive multiplayer games on timed automata
+- Considering only memoryless player strategies, proved undecidability of the existence of a cost bounded Nash, Stackelberg or Incentive equilibrium in a 2 player sequential timed game with 3 clocks (a result that trivially extends to more players or clocks)
 - [./RnD.pdf Report]
 
 

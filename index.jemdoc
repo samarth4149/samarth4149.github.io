@@ -20,7 +20,7 @@ Matriculation | [http://www.dpsbhilai.in/ Delhi Public School, Bhilai] | 2006-20
 ~~~
 
 == Interests
-- Computer Vision, Machine Learning
+Computer Vision, Machine Learning
 
 == Key Courses Completed
 === Undergrad Major Courses 
@@ -56,6 +56,9 @@ Matriculation | [http://www.dpsbhilai.in/ Delhi Public School, Bhilai] | 2006-20
 - K. Chatterjee, B. Kragl, S. Mishra, A. Pavlogiannis: \n
 	Faster Algorithms for Weighted Recursive State Machines. \n
 	ESOP 2017 [https://arxiv.org/abs/1701.04914 \[arxiv\]]
+- Stefan Stojanov, Samarth Mishra, Ngoc Anh Thai, Nikhil Dhanda, \n 
+	Ahmad Humayun, Linda Smith, Chen Yu, and James M. Rehg. \n 
+	Incremental object learning from contiguous views. (Under Review), 2018. 
 
 == Resume
 - Click [./resume.pdf here] to view my resume
