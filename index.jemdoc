@@ -2,25 +2,31 @@
 {{<link rel="stylesheet" href="./files/person.css" type="text/css">}}
 = Samarth Mishra
 ~~~
-{}{img_left}{image-cropped.jpg}{unable to load image}{170px}{210px}
+{}{img_left}{new_img_cropped.jpg}{unable to load image}{170px}{210px}
 Samarth Mishra,\n
-Master's in Computer Science, \n 
-Advised by /Prof. [http://rehg.org/ James M. Rehg]/ \n
-[https://www.cc.gatech.edu/ College of Computing], \n
-[http://www.gatech.edu/ Georgia Institute of Technology]
+PhD in Computer Science (starting Fall 2019), \n 
+[https://www.bu.edu/ Boston University]
 ~~~
 
 
 == Education
 ~~~
 {}{table}{TABLENAME}
-Bachelor's | [http://www.iitb.ac.in/ IIT Bombay] | 2013-2017 ||
-Intermediate | [http://www.dpsbhilai.in/ Delhi Public School, Bhilai] | 2011-2013 ||
-Matriculation | [http://www.dpsbhilai.in/ Delhi Public School, Bhilai] | 2006-2011 
+Master's | Advised by /Prof. [http://rehg.org/ James M. Rehg]/ | [https://www.gatech.edu/ Georgia Institute of Technology] | 2017-2019 ||
+Bachelor's | Advised by /Prof. [https://www.cse.iitb.ac.in/~suyash/ Suyash P. Awate]/ | [http://www.iitb.ac.in/ IIT Bombay] | 2013-2017 ||
 ~~~
 
 == Interests
 Computer Vision, Machine Learning
+
+== Publications
+- Stefan Stojanov, Samarth Mishra, Anh Thai, Nikhil Dhanda, \n 
+	Ahmad Humayun, Linda Smith, Chen Yu, and James M. Rehg. \n 
+	Incremental Object Learning from Contiguous Views. 
+	[http://openaccess.thecvf.com/content_CVPR_2019/papers/Stojanov_Incremental_Object_Learning_From_Contiguous_Views_CVPR_2019_paper.pdf \[cvf\]] *Oral* CVPR 2019.
+- K. Chatterjee, B. Kragl, S. Mishra, A. Pavlogiannis: \n
+	Faster Algorithms for Weighted Recursive State Machines. \n
+	ESOP 2017 [https://arxiv.org/abs/1701.04914 \[arxiv\]]
 
 == Key Courses Completed
 === Undergrad Major Courses 
@@ -50,21 +56,13 @@ Computer Vision, Machine Learning
 - Algorithms in Medical Image Processing 
 - Digital Image Processing 
 - Foundations of Parallel Computation 
-- Program Derivation 
-
-== Publications
-- K. Chatterjee, B. Kragl, S. Mishra, A. Pavlogiannis: \n
-	Faster Algorithms for Weighted Recursive State Machines. \n
-	ESOP 2017 [https://arxiv.org/abs/1701.04914 \[arxiv\]]
-- Stefan Stojanov, Samarth Mishra, Ngoc Anh Thai, Nikhil Dhanda, \n 
-	Ahmad Humayun, Linda Smith, Chen Yu, and James M. Rehg. \n 
-	Incremental object learning from contiguous views. (Under Review), 2018. 
+- Program Derivation  
 
 == Resume
 - Click [./resume.pdf here] to view my resume
 
 == Contact
-Email: [mailto:smishra@gatech.edu smishra@gatech.edu] \n
+Email: [mailto:samarthm@bu.edu samarthm@bu.edu] \n
 Address: 450 Piedmont Ave NE, Apt 1412, Atlanta, GA - 30308 \n
 [https://www.linkedin.com/in/samarth-mishra/ LinkedIn : samarth-mishra] \n
 [https://www.facebook.com/samarth0205 Follow@samarth0205] 
