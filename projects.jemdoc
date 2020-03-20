@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{projects.html}
 {{<link rel="stylesheet" href="./files/person.css" type="text/css">}}
-= Key Projects
+= Projects
 == GPGPU solutions for Linear Least Squares Problem 
 * CSE 6643 - Numerical Linear Algebra, Spring 2018 * \n
 Guide : Prof. Haesun Park
