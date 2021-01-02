@@ -1,1 +1,1 @@
-# the repository for my web page
+# Repository for BU CV reading group

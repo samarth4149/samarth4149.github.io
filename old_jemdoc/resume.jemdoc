@@ -1,7 +1,0 @@
-# jemdoc: menu{MENU}{resume.html}
-{{<link rel="stylesheet" href="./files/person.css" type="text/css">}}
-= Samarth Mishra -- Resume
-Click {{<a href="./resume.pdf" target="_blank">here</a>}} to open in a new tab.\n
-{{<embed src="./resume.pdf" width=900px height=1000px>}}
-\n
-

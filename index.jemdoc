@@ -1,62 +1,6 @@
 # jemdoc: menu{MENU}{index.html}
-{{<link rel="stylesheet" href="./files/person.css" type="text/css">}}
-= Samarth Mishra
-~~~
-{}{img_left}{new_img_cropped.jpg}{unable to load image}{170px}{210px}
-Samarth Mishra,\n
-PhD Student in Computer Science, \n
-Advisors : /Prof. [https://www.bu.edu/eng/profile/venkatesh-saligrama/ Venkatesh Saligrama]/ & 
-/Prof. [https://www.bu.edu/cs/profiles/kate-saenko/ Kate Saenko]/ \n
-[https://www.bu.edu/ Boston University]
-~~~
+= CV Reading Group
 
+To subscribe to the mailing list for updates regarding presentation schedule, join the [https://groups.google.com/g/bu-cv-reading-group google group].
 
-== Education
-~~~
-{}{table}{TABLENAME}
-Master's | Advised by /Prof. [http://rehg.org/ James M. Rehg]/ | [https://www.gatech.edu/ Georgia Institute of Technology] | 2017-2019 ||
-Bachelor's | Advised by /Prof. [https://www.cse.iitb.ac.in/~suyash/ Suyash P. Awate]/ | [http://www.iitb.ac.in/ IIT Bombay] | 2013-2017 ||
-~~~
-
-== Interests
-Computer Vision, Machine Learning
-
-== Publications
-- Stefan Stojanov, /Samarth Mishra/ \*, Anh Thai\*, Nikhil Dhanda, \n 
-	Ahmad Humayun, Linda Smith, Chen Yu, and James M. Rehg. \n 
-	Incremental Object Learning from Contiguous Views. 
-	[http://openaccess.thecvf.com/content_CVPR_2019/papers/Stojanov_Incremental_Object_Learning_From_Contiguous_Views_CVPR_2019_paper.pdf \[cvf\]] [https://iolfcv.github.io/ \[project page\]] \n 
-	*Oral, Best paper finalist* CVPR 2019.
-- K. Chatterjee, B. Kragl, /S. Mishra/, A. Pavlogiannis: \n
-	Faster Algorithms for Weighted Recursive State Machines. \n
-	ESOP 2017 [https://arxiv.org/abs/1701.04914 \[arxiv\]]
-
-== Relevant Coursework
-*Boston University*
-- Towards Universal Natural Language Understanding
-
-*Georgia Tech*
-- Machine Learning 
-- Numerical Linear Algebra 
-- Machine Learning Theory
-
-*IIT Bombay*
-- Advanced Machine Learning (Probabilistic Graphical Models and Deep Learning)
-- Foundations of Intelligent and Learning Agents 
-- Algorithms in Medical Image Processing 
-- Digital Image Processing 
-
-*Udacity*
-- Computer Vision
-- Deep Learning
-
-
-== Find me on
-[https://www.linkedin.com/in/samarth-mishra/ LinkedIn] \n
-[https://scholar.google.com/citations?user=Vxk4TM4AAAAJ&hl=en Google Scholar] \n
-[https://twitter.com/samarthm44 Twitter] \n
-[https://github.com/samarth4149?tab=repositories Github] \n
-Email: [mailto:samarthm@bu.edu samarthm@bu.edu]
-
-
-
+You can also add this [https://calendar.google.com/calendar/u/1?cid=Y18zODc3N3UzdTgybDY1ZzE5YjM5Mm1yaXVub0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t google calendar], which would be updated with the schedule for the reading group.

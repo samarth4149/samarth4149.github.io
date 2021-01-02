@@ -56,7 +56,7 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #305080;
+	color: #224b8d;
 	text-decoration: none;
 }
 
@@ -65,11 +65,11 @@ a:hover {
 }
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
-	color: #305080;
+	color: #022b6d;
 	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: #305080;
+	color: #527bbd;
 	text-decoration: none;
 }
 #layout-menu a:hover {
@@ -117,7 +117,7 @@ strong {
 
 
 h1, h2, h3 {
-	color: #305080;
+	color: #527bbd;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
@@ -336,15 +336,16 @@ img.eqwl {
 }
 
 table {
-    border: none;
+    border: 2px solid black;
+    border-collapse: collapse;
 }
 
 td {
     padding: 2px;
     padding-left: 0.5em;
     padding-right: 0.5em;
-    text-align: left;
-    border: none;
+    text-align: center;
+    border: 1px solid gray;
 }
 
 table + table {
@@ -353,7 +354,7 @@ table + table {
 
 tr.heading {
     font-weight: bold;
-    border-bottom: none;
+    border-bottom: 2px solid black;
 }
 
 img {
@@ -364,5 +365,3 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
-
-
