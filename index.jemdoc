@@ -27,9 +27,14 @@ Computer Vision, Machine Learning
 	Incremental Object Learning from Contiguous Views. 
 	[http://openaccess.thecvf.com/content_CVPR_2019/papers/Stojanov_Incremental_Object_Learning_From_Contiguous_Views_CVPR_2019_paper.pdf \[cvf\]] [https://iolfcv.github.io/ \[project page\]] \n 
 	*Oral, Best paper finalist* CVPR 2019.
-- K. Chatterjee, B. Kragl, /S. Mishra/, A. Pavlogiannis: \n
+- K. Chatterjee, B. Kragl, /S. Mishra/, A. Pavlogiannis. \n
 	Faster Algorithms for Weighted Recursive State Machines. \n
 	ESOP 2017 [https://arxiv.org/abs/1701.04914 \[arxiv\]]
+
+== Preprints
+ - /Samarth Mishra/, Kate Saenko, Venkatesh Saligrama. \n
+   Surprisingly Simple Semi-Supervised Domain Adaptation 
+   with Pretraining and Consistency [https://arxiv.org/abs/2101.12727 \[arxiv\]]
 
 == Relevant Coursework
 *Boston University*
