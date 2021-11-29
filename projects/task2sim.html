@@ -1,0 +1,260 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript">google.load("jquery", "1.3.2");</script>
+
+<style type="text/css">
+  body {
+    font-family: "Titillium Web","HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight:300;
+    font-size:18px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1100px;
+  }
+
+  h1 {
+    font-weight:300;
+  }
+
+  .disclaimerbox {
+    background-color: #eee;
+    border: 1px solid #eeeeee;
+    border-radius: 10px ;
+    -moz-border-radius: 10px ;
+    -webkit-border-radius: 10px ;
+    padding: 20px;
+  }
+
+  video.header-vid {
+    height: 140px;
+    border: 1px solid black;
+    border-radius: 10px ;
+    -moz-border-radius: 10px ;
+    -webkit-border-radius: 10px ;
+  }
+
+  img.header-img {
+    height: 140px;
+    border: 1px solid black;
+    border-radius: 10px ;
+    -moz-border-radius: 10px ;
+    -webkit-border-radius: 10px ;
+  }
+
+  .link2 {
+    text-decoration: none;
+    display: inline;
+    margin-right: 5px;
+  }
+
+  .fakelink {
+    text-decoration: none;
+    /* cursor: pointer; */
+  }
+
+  element.style {
+    overflow: hidden;
+    display: block;
+  }
+  .pre-white-space {
+    white-space: pre;
+  }
+  .bibref {
+    margin-top: 10px;
+    margin-left: 10px;
+    display: none;
+    font-size: 14px;
+    font-family: monospace;
+  }
+
+  img.rounded {
+    border: 1px solid #eeeeee;
+    border-radius: 10px ;
+    -moz-border-radius: 10px ;
+    -webkit-border-radius: 10px ;
+  }
+
+  a:link,a:visited
+  {
+    color: #1367a7;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #208799;
+  }
+
+  td.dl-link {
+    height: 160px;
+    text-align: center;
+    font-size: 22px;
+  }
+
+  .layered-paper-big { /* modified from: http://css-tricks.com/snippets/css/layered-paper/ */
+    box-shadow:
+            0px 0px 1px 1px rgba(0,0,0,0.35), /* The top layer shadow */
+            5px 5px 0 0px #fff, /* The second layer */
+            5px 5px 1px 1px rgba(0,0,0,0.35), /* The second layer shadow */
+            10px 10px 0 0px #fff, /* The third layer */
+            10px 10px 1px 1px rgba(0,0,0,0.35), /* The third layer shadow */
+            15px 15px 0 0px #fff, /* The fourth layer */
+            15px 15px 1px 1px rgba(0,0,0,0.35), /* The fourth layer shadow */
+            20px 20px 0 0px #fff, /* The fifth layer */
+            20px 20px 1px 1px rgba(0,0,0,0.35), /* The fifth layer shadow */
+            25px 25px 0 0px #fff, /* The fifth layer */
+            25px 25px 1px 1px rgba(0,0,0,0.35); /* The fifth layer shadow */
+    margin-left: 10px;
+    margin-right: 45px;
+  }
+
+
+  .layered-paper { /* modified from: http://css-tricks.com/snippets/css/layered-paper/ */
+    box-shadow:
+            0px 0px 1px 1px rgba(0,0,0,0.35), /* The top layer shadow */
+            5px 5px 0 0px #fff, /* The second layer */
+            5px 5px 1px 1px rgba(0,0,0,0.35), /* The second layer shadow */
+            10px 10px 0 0px #fff, /* The third layer */
+            10px 10px 1px 1px rgba(0,0,0,0.35); /* The third layer shadow */
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 30px;
+    margin-bottom: 5px;
+  }
+
+  .vert-cent {
+    position: relative;
+      top: 50%;
+      transform: translateY(-50%);
+  }
+
+  hr
+  {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+  }
+</style>
+<script type="text/javascript" src="resources/hidebib.js"></script>
+<link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,600,400italic,600italic,300,300italic' rel='stylesheet' type='text/css'>
+  <head>
+    <link rel="icon" type="image/png" href="resources/ucsd_logo.png">
+    <title>Task2Sim: Towards Effective Pre-training and Transfer from Synthetic Data</title>
+    <meta property='og:title' content='Task2Sim: Towards Effective Pre-training and Transfer from Synthetic Data' />
+    <meta property="og:description" content="Rameswar Panda, Chun-Fu (Richard) Chen, Quanfu Fan, Ximeng Sun, Kate Saenko, Aude Oliva, Rogerio Feris. AdaMML: Adaptive Multi-Modal Learning for Efficient Video Recognition. In ICCV, 2021." />
+    <meta property='og:url' content='https://cvir.github.io/TCL/' />
+  </head>
+  <body>
+        <br>
+        <center><span style="font-size:40px;font-weight:bold;color:#182B49">Task2Sim: Towards Effective Pre-training <br/> and Transfer from Synthetic Data</span></center>
+
+        <table align=center width=900px>
+          <tr>
+            <td align=center width=180px>
+            <center><span style="font-size:20px"><a href="https://samarth4149.github.io/" target="_blank">Samarth Mishra</a><sup>1</sup></span></center></td>
+            <td align=center width=180px>
+            <center><span style="font-size:20px"><a href="https://griffintaur.github.io/" target="_blank">Rameswar Panda</a><sup>3,4</sup></span></center></td>
+            <td align=center width=180px>
+            <center><span style="font-size:20px"><a href="https://www.cs.cornell.edu/~cpphoo/" target="_blank">Cheng Perng Phoo</a><sup>2</sup></span></center></td>
+            <td align=center width=180px>
+              <center><span style="font-size:20px"><a href="https://mitibmwatsonailab.mit.edu/people/richard-chen/" target="_blank"> Chun-Fu Chen</a><sup>3,4</sup></span></center></td>
+            <td align=center width=180px>
+              <center><span style="font-size:20px"><a href="https://researcher.watson.ibm.com/researcher/view.php?person=il-LEONIDKA" target="_blank"> Leonid Karlinsky</a><sup>4</sup></span></center></td>
+         </table>
+
+         <table align=center width=600px>
+            <tr>
+              <td align=center width=150px>
+                <center><span style="font-size:20px"><a href="http://ai.bu.edu/ksaenko.html" target="_blank">Kate Saenko</a><sup>1,3</sup></span></center></td>
+          <td align=center width=150px>
+            <center><span style="font-size:20px"><a href="https://sites.bu.edu/data/" target="_blank">Venkatesh Saligrama</a><sup>1</sup></span></center></td>
+        <td align=center width=150px>
+            <center><span style="font-size:20px"><a href="http://rogerioferis.com/" target="_blank">Rogerio Feris</a><sup>3</sup></span></center></td>
+        <tr/>
+      </table>
+        <!-- <center><span style="font-size:15px;color:#000000">&#8224: Equal Contribution</span></center> -->
+
+        <table align=center width=800px>
+          <tr>
+            <td align=center width=150px><center><sup>1 </sup><span style="font-size:18px">Boston University</span></center></td>
+            <td align=center width=150px><center><sup>2 </sup><span style="font-size:18px">Cornell University</span></center></td>
+            <td align=center width=150px><center><sup>3 </sup><span style="font-size:18px">MIT-IBM Watson AI Lab</span></center></td>
+            <td align=center width=150px><center><sup>4 </sup><span style="font-size:18px">IBM Research</span></center></td>
+          <tr/>
+        </table> 
+        <!-- <table align=center width=400px>
+          <tr>
+            <td align=center width=150px>
+            <center><span style="font-size:24px"><a href="http://iccv2021.thecvf.com/" target="_blank">ICCV 2021</a></span></center></td>
+          <tr/>
+        </table> -->
+        <table align=center width=200px>
+            <tr><td width=200px>
+              <center><a href="images/task2sim_model.png"><img src = "images/task2sim_model.png" width="900" height="300"></img></a><br></center>
+            </td></tr>
+        </table>
+
+        <center id="abstract"><h1>Abstract</h1></center>
+        Pre-training models on Imagenet or other massive datasets of real images has led to major advances in computer vision, albeit accompanied with shortcomings related to curation cost, privacy, usage rights, and ethical issues. In this paper, for the first time, we study the transferability of pre-trained models based on synthetic data generated by graphics simulators to downstream tasks from very different domains. In using such synthetic data for pre-training, we find that downstream performance on different tasks are favored by different configurations of simulation parameters (e.g. lighting, object pose, backgrounds, etc.), and that there is no one-size-fits-all solution. It is thus better to tailor synthetic pre-training data to a specific downstream task, for best performance. We introduce Task2Sim, a unified model mapping downstream task representations to optimal simulation parameters to generate synthetic pre-training data for them. Task2Sim learns this mapping by training to find the set of best parameters on a set of "seen" tasks. Once trained, it can then be used to predict best simulation parameters for novel "unseen" tasks in one shot, without requiring additional training. Given a budget in number of images per class, our extensive experiments with 20 diverse downstream tasks show Task2Sim's task-adaptive pre-training data results in significantly better downstream performance than non-adaptively choosing simulation parameters on both seen and unseen tasks. It is even competitive with pre-training on real images from Imagenet.          <br>
+        <hr>
+
+        <center id="results0"><h1>Simulation Controls</h1></center>
+        <table align=center width=500px>
+            <tr><td width=500px>
+              <center><a href="images/task2sim_variations.png"><img src = "images/task2sim_variations.png" width="500" height="707"></img></a><br></center>
+            </td></tr>
+          </table>
+          <caption width=500px align="center">Different properties of synthetic data parameterized in simulation</caption>
+        <br>
+        <hr>
+
+        <!-- <center id="results0"><h1>Qualitative Results</h1></center>
+        <table align=center width=500px>
+            <tr><td width=500px>
+              <center><a href="images/adamml_qual.png"><img src = "images/adamml_qual.png" width="900" height="500"></img></a><br></center>
+            </td></tr>
+          </table>
+          <caption width=500px align="center">Qualitative examples showing the effectiveness of <strong>AdaMML</strong> in selecting the right modalities per video segment (marked by green borders)</caption>
+        <br>
+        <hr> -->
+
+        
+        <center id="sourceCode"><h1>Paper & Code</h1></center>
+
+
+        <table align=center width=900px>
+            <tr></tr>
+          <tr>
+            <td >
+        <a href=""><img class="paperpreview" src="images/task2sim_model.png" width="250px"/></a>
+          </td>
+          <td></td>
+          <td width=700px > <span style="font-size:20px">
+            Samarth Mishra, Rameswar Panda, Cheng Perng Phoo, Chun-Fu Chen, Leonid Karlinsky, Kate Saenko, Venkatesh Saligrama, Rogerio Feris<br/>
+              <a href="">
+                  Task2Sim: Towards Effective Pre-training and Transfer from Synthetic Data</a> <br/>
+            <!-- [<a href="https://rpand002.github.io/data/ICCV_2021_adamml.pdf">PDF</a>] -->
+            <!-- [<a href="https://rpand002.github.io/data/ICCV_2021_adamml_supp.pdf">Supp</a>]
+            [<a href="https://rpand002.github.io/data/adamml_poster_iccv.pdf">Poster</a>]
+            [<a href="https://rpand002.github.io/data/adamml_slides_iccv.pdf">Slides</a>] -->
+            <!-- [<a href="https://github.com/IBM/AdaMML">Code</a>] -->
+
+
+</span>
+        </td>
+        </tr>
+
+      </table>
+
+      <br>
+      <hr>
+
+      <br/>
+
+    <br><br>
+<script xml:space="preserve" language="JavaScript">
+hideallbibs();
+</script>
+</body>
+</html>
