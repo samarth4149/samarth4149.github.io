@@ -22,23 +22,38 @@ Bachelor's | Advised by /Prof. [https://www.cse.iitb.ac.in/~suyash/ Suyash P. Aw
 Computer Vision, Machine Learning
 
 == Publications
-- Stefan Stojanov, /Samarth Mishra/ \*, Anh Thai\*, Nikhil Dhanda, \n 
-	Ahmad Humayun, Linda Smith, Chen Yu, and James M. Rehg. \n 
-	Incremental Object Learning from Contiguous Views. 
-	[http://openaccess.thecvf.com/content_CVPR_2019/papers/Stojanov_Incremental_Object_Learning_From_Contiguous_Views_CVPR_2019_paper.pdf \[cvf\]] [https://iolfcv.github.io/ \[project page\]] \n 
-	*Oral, Best paper finalist* CVPR 2019.
-- K. Chatterjee, B. Kragl, /S. Mishra/, A. Pavlogiannis. \n
+- *Samarth Mishra*, K. Saenko, and V. Saligrama. \n
+  Surprisingly Simple Semi-Supervised Domain Adaptation with Pretraining and Consistency. \n
+  BMVC 2021 [https://arxiv.org/abs/2101.12727 \[arxiv\]] [https://github.com/venkatesh-saligrama/PAC \[github\]]
+- *Samarth Mishra*, Z. Zhang, Y. Shen, R. Kumar, V. Saligrama, and B. Plummer. \n
+	Effectively leveraging attributes for visual similarity. \n
+	ICCV 2021 [https://arxiv.org/abs/2105.01695 \[arxiv\]] [https://github.com/samarth4149/PAN \[github\]]
+- D. Kim, K. Saito, *Samarth Mishra*, S. Sclaroff, K. Saenko, and B.Plummer. \n 
+	Self-supervised visual attribute learning for fashion compatibility. \n
+	ICCV 2021 VIPriors Workshop [https://arxiv.org/abs/2008.00348 \[arxiv\]]
+- P. Zhu, R. Zhu, *Samarth Mishra*, and V. Saligrama. \n
+	Low dimensional visual attributes: An interpretable image encoding. \n
+	ICPR 2020 EDL/AI Workshop [https://link.springer.com/chapter/10.1007/978-3-030-68796-0_7 \[springer\]]
+- S. Stojanov, *Samarth Mishra* \*, N.A. Thai\*, N. Dhanda, \n 
+	A. Humayun, L.B. Smith, C. Yu, and J. M. Rehg. \n 
+	Incremental Object Learning from Contiguous Views. \n 
+	Oral, Best paper finalist CVPR 2019 [http://openaccess.thecvf.com/content_CVPR_2019/papers/Stojanov_Incremental_Object_Learning_From_Contiguous_Views_CVPR_2019_paper.pdf \[cvf\]] [https://iolfcv.github.io/ \[project page\]]
+- K. Chatterjee, B. Kragl, *Samarth Mishra*, A. Pavlogiannis. \n
 	Faster Algorithms for Weighted Recursive State Machines. \n
 	ESOP 2017 [https://arxiv.org/abs/1701.04914 \[arxiv\]]
 
+
 == Preprints
- - /Samarth Mishra/, Kate Saenko, Venkatesh Saligrama. \n
-   Surprisingly Simple Semi-Supervised Domain Adaptation 
-   with Pretraining and Consistency [https://arxiv.org/abs/2101.12727 \[arxiv\]]
+- *Samarth Mishra*, R. Panda, C.P. Phoo, C.F. Chen, L. Karlinsky, K. Saenko, V. Saligrama, and R.S. Feris. \n
+	Task2Sim: Towards effective pre-training and transfer from synthetic data. [https://arxiv.org/abs/2112.00054 \[arxiv\]] [https://samarth4149.github.io/projects/task2sim.html \[project page\]]
+- D. Bashkirova, D. Hendrycks, D. Kim, *Samarth Mishra*, K. Saenko, K. Saito, P. Teterwak, and B. Usman. \n
+	Visda-2021 competition : Universal domain adaptation to improve performance on out-of-distribution data. \n NeurIPS 2021 Competitions Track. [https://arxiv.org/abs/2107.11011 \[arxiv\]] [http://ai.bu.edu/visda-2021/ \[competition page\]]
+
 
 == Relevant Coursework
 *Boston University*
 - Towards Universal Natural Language Understanding
+- Reinforcement Learning
 
 *Georgia Tech*
 - Machine Learning 
