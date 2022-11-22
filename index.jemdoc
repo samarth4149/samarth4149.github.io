@@ -21,8 +21,13 @@ Bachelor's | Advised by /Prof. [https://www.cse.iitb.ac.in/~suyash/ Suyash P. Aw
 == Interests
 Computer Vision, Machine Learning
 
+{{<font color=red size=+0.5> <b>}} I am on the market for research interships in summer 2023. \n I'm interested in representation learning for effective transfer, possibly using synthetic data.{{</font> </b>}}
+
 == Publications
 === Conferences
+- Y. Kim, *Samarth Mishra*, S. Jin, R. Panda, H. Kuehne, L. Karlinsky, V. Saligrama, K.Saenko, A. Oliva, R.S. Feris. \n
+	How Transferable are Video Representations Based on Synthetic Data? \n 
+	NeurIPS 2022 D&B [https://openreview.net/forum?id=lRUCfzs5Hzg \[openreview\]] [https://github.com/mintjohnkim/SynAPT \[github\]]
 - *Samarth Mishra*, R. Panda, C.P. Phoo, C.F. Chen, L. Karlinsky, K. Saenko, V. Saligrama, and R.S. Feris. \n
 	Task2Sim: Towards effective pre-training and transfer from synthetic data. \n 
 	CVPR 2022 [https://arxiv.org/abs/2112.00054 \[arxiv\]] [https://samarth4149.github.io/projects/task2sim.html \[project page\]]
