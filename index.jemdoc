@@ -21,10 +21,13 @@ Bachelor's | Advised by /Prof. [https://www.cse.iitb.ac.in/~suyash/ Suyash P. Aw
 == Interests
 Computer Vision, Machine Learning
 
-# {{<font color=red size=+0.5> <b>}} I am on the market for research interships in summer 2023. \n I'm interested in representation learning for effective transfer, possibly using synthetic data.{{</font> </b>}}
+{{<font size=+0.5> <b>}} I am on the market for industry positions starting summer 2024. {{</font> </b>}} \n Feel free to reach out if you think I am a fit!
 
 == Publications
 === Conferences
+- H. Zhong, *Samarth Mishra*, D. Kim, S. Jin, R. Panda, H. Kuehne, L. Karlinsky, V. Saligrama, A. Oliva and R. Feris. \n 
+	Learning Human Action Recognition Representations Without Real Humans. \n
+	NeurIPS 2023 D&B [https://openreview.net/forum?id=UBbm5embIB \[openreview\]] [https://arxiv.org/abs/2311.06231 \[arxiv\]] [https://github.com/howardzh01/PPMA \[github\]]
 - Y. Kim, *Samarth Mishra*, S. Jin, R. Panda, H. Kuehne, L. Karlinsky, V. Saligrama, K.Saenko, A. Oliva, R.S. Feris. \n
 	How Transferable are Video Representations Based on Synthetic Data? \n 
 	NeurIPS 2022 D&B [https://openreview.net/forum?id=lRUCfzs5Hzg \[openreview\]] [https://github.com/mintjohnkim/SynAPT \[github\]]
@@ -34,8 +37,8 @@ Computer Vision, Machine Learning
 - D. Bashkirova, D. Hendrycks, D. Kim, *Samarth Mishra*, K. Saenko, K. Saito, P. Teterwak, and B. Usman. \n
 	Visda-2021 competition : Universal domain adaptation to improve performance on out-of-distribution data. \n NeurIPS 2021 Competitions Track. [https://arxiv.org/abs/2107.11011 \[arxiv\]] [http://ai.bu.edu/visda-2021/ \[competition page\]]
 - *Samarth Mishra*, K. Saenko, and V. Saligrama. \n
-  Surprisingly Simple Semi-Supervised Domain Adaptation with Pretraining and Consistency. \n
-  BMVC 2021 [https://arxiv.org/abs/2101.12727 \[arxiv\]] [https://github.com/venkatesh-saligrama/PAC \[github\]]
+  	Surprisingly Simple Semi-Supervised Domain Adaptation with Pretraining and Consistency. \n
+  	BMVC 2021 [https://arxiv.org/abs/2101.12727 \[arxiv\]] [https://github.com/venkatesh-saligrama/PAC \[github\]]
 - *Samarth Mishra*, Z. Zhang, Y. Shen, R. Kumar, V. Saligrama, and B. Plummer. \n
 	Effectively leveraging attributes for visual similarity. \n
 	ICCV 2021 [https://arxiv.org/abs/2105.01695 \[arxiv\]] [https://github.com/samarth4149/PAN \[github\]]
@@ -46,6 +49,13 @@ Computer Vision, Machine Learning
 - K. Chatterjee, B. Kragl, *Samarth Mishra*, A. Pavlogiannis. \n
 	Faster Algorithms for Weighted Recursive State Machines. \n
 	ESOP 2017 [https://arxiv.org/abs/1701.04914 \[arxiv\]]
+
+=== Journals
+- *Samarth Mishra*, P. Zhu, V. Saligrama. \n 
+	Learning Compositional Representations for Effective Low-Shot Generalization. \n
+	IEEE Transactions on Pattern Analysis and Machine Intelligence. 
+	[https://arxiv.org/abs/2204.08090 \[arxiv\]]
+
 === Workshops
 - D. Kim, K. Saito, *Samarth Mishra*, S. Sclaroff, K. Saenko, and B.Plummer. \n 
 	Self-supervised visual attribute learning for fashion compatibility. \n
@@ -55,9 +65,10 @@ Computer Vision, Machine Learning
 	ICPR 2020 EDL/AI Workshop [https://link.springer.com/chapter/10.1007/978-3-030-68796-0_7 \[springer\]]
 
 == Preprints
-- *Samarth Mishra*, P. Zhu, V. Saligrama. \n 
-	Learning Compositional Representations for Effective Low-Shot Generalization. 
-	[https://arxiv.org/abs/2204.08090 \[arxiv\]]
+
+- *Samarth Mishra*, C. Castillo, H. Wang, K. Saenko, V. Saligrama. \n 
+	SynCDR : Training Cross Domain Retrieval Models with Synthetic Data. \n 
+	[https://cs-people.bu.edu/samarthm/syncdr.pdf \[pdf\]] \[coming soon : arxiv, github\]
 
 
 
@@ -78,15 +89,11 @@ Computer Vision, Machine Learning
 - Algorithms in Medical Image Processing 
 - Digital Image Processing 
 
-*Udacity*
-- Computer Vision
-- Deep Learning
-
 
 == Find me on
 [https://scholar.google.com/citations?user=Vxk4TM4AAAAJ&hl=en Google Scholar] \n
 [https://twitter.com/samarthm44 Twitter] \n
-[https://github.com/samarth4149?tab=repositories Github] \n
+[https://github.com/samarth4149 Github] \n
 [https://www.linkedin.com/in/samarth-mishra/ LinkedIn] \n
 Email: [mailto:samarthm@bu.edu samarthm@bu.edu]
 
