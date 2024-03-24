@@ -4,11 +4,13 @@
 ~~~
 {}{img_left}{new_img_cropped.jpg}{unable to load image}{170px}{210px}
 Samarth Mishra,\n
-PhD Student in Computer Science, \n
+PhD Student in Computer Science at [https://www.bu.edu/ Boston University], \n
 Advisors : /Prof. [http://sites.bu.edu/data Venkatesh Saligrama]/ & 
 /Prof. [https://www.bu.edu/cs/profiles/kate-saenko/ Kate Saenko]/ \n
-[https://www.bu.edu/ Boston University]
+Email: [mailto:samarthm@bu.edu samarthm@bu.edu]
 ~~~
+
+{{<font size=+0.5> <b>}} I am on the market for full-time industry positions starting fall 2024. {{</font> </b>}} \n Feel free to reach out if you think I am a fit!
 
 
 == Education
@@ -18,10 +20,8 @@ Master's | Advised by /Prof. [http://rehg.org/ James M. Rehg]/ | [https://www.ga
 Bachelor's | Advised by /Prof. [https://www.cse.iitb.ac.in/~suyash/ Suyash P. Awate]/ | [http://www.iitb.ac.in/ IIT Bombay] | 2013-2017 ||
 ~~~
 
-== Interests
-Computer Vision, Machine Learning
-
-{{<font size=+0.5> <b>}} I am on the market for full-time industry positions starting fall 2024. {{</font> </b>}} \n Feel free to reach out if you think I am a fit!
+== Research Interests
+Computer Vision, Machine Learning, Large Multimodal Models, Synthetic Data
 
 == Publications
 === Conferences
@@ -66,9 +66,9 @@ Computer Vision, Machine Learning
 
 == Preprints
 
-- *Samarth Mishra*, K. Saenko, V. Saligrama. \n 
+- *Samarth Mishra*, C. Castillo, H. Wang, K. Saenko, V. Saligrama. \n 
 	SynCDR : Training Cross Domain Retrieval Models with Synthetic Data. \n 
-	[https://arxiv.org/abs/2401.00420 \[arxiv\]]\[coming soon : [https://github.com/samarth4149/SynCDR github]\]
+	[https://arxiv.org/abs/2401.00420 \[arxiv\]]\[[https://github.com/samarth4149/SynCDR github]\]
 
 
 
@@ -89,13 +89,6 @@ Computer Vision, Machine Learning
 - Algorithms in Medical Image Processing 
 - Digital Image Processing 
 
-
-== Find me on
-[https://scholar.google.com/citations?user=Vxk4TM4AAAAJ&hl=en Google Scholar] \n
-[https://twitter.com/samarthm44 Twitter] \n
-[https://github.com/samarth4149 Github] \n
-[https://www.linkedin.com/in/samarth-mishra/ LinkedIn] \n
-Email: [mailto:samarthm@bu.edu samarthm@bu.edu]
 
 
 
