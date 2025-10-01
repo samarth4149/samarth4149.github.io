@@ -4,18 +4,15 @@
 ~~~
 {}{img_left}{new_img_cropped.jpg}{unable to load image}{170px}{210px}
 Samarth Mishra,\n
-PhD Student in Computer Science at [https://www.bu.edu/ Boston University], \n
-Advisors : /Prof. [http://sites.bu.edu/data Venkatesh Saligrama]/ & 
-/Prof. [https://www.bu.edu/cs/profiles/kate-saenko/ Kate Saenko]/ \n
-Email: [mailto:samarthm@bu.edu samarthm@bu.edu]
+Software Engineer, \n 
+Perception @ [https://waymo.com/ Waymo] \n
 ~~~
-
-{{<font size=+0.5> <b>}} I am on the market for full-time industry positions starting fall 2024. {{</font> </b>}} \n Feel free to reach out if you think I am a fit! [cover_letter.pdf \[Cover Letter\]]
 
 
 == Education
 ~~~
 {}{table}{TABLENAME}
+PhD | Advised by /Profs. [http://sites.bu.edu/data Venkatesh Saligrama] & [https://www.bu.edu/cs/profiles/kate-saenko/ Kate Saenko] | [https://www.bu.edu/ Boston University] | 2019-2024 ||
 Master's | Advised by /Prof. [http://rehg.org/ James M. Rehg]/ | [https://www.gatech.edu/ Georgia Institute of Technology] | 2017-2019 ||
 Bachelor's | Advised by /Prof. [https://www.cse.iitb.ac.in/~suyash/ Suyash P. Awate]/ | [http://www.iitb.ac.in/ IIT Bombay] | 2013-2017 ||
 ~~~
@@ -25,6 +22,10 @@ Computer Vision, Machine Learning, Large Multimodal Models, Synthetic Data
 
 == Publications
 === Conferences
+- K. Miller, A. Gangrage, *Samarth Mishra*, K. Saenko and V. Saligrama. \n
+	SPARC: Score Prompting and Adaptive Fusion for Zero-Shot Multi-Label \n 
+	Recognition in Vision-Language Models \n
+	CVPR 2025 [https://openaccess.thecvf.com/content/CVPR2025/papers/Miller_SPARC_Score_Prompting_and_Adaptive_Fusion_for_Zero-Shot_Multi-Label_Recognition_CVPR_2025_paper.pdf \[cvf\]] [https://github.com/kjmillerCURIS/SPARC.git \[github\]]
 - H. Zhong, *Samarth Mishra*, D. Kim, S. Jin, R. Panda, H. Kuehne, L. Karlinsky, V. Saligrama, A. Oliva and R. Feris. \n 
 	Learning Human Action Recognition Representations Without Real Humans. \n
 	NeurIPS 2023 D&B [https://openreview.net/forum?id=UBbm5embIB \[openreview\]] [https://arxiv.org/abs/2311.06231 \[arxiv\]] [https://github.com/howardzh01/PPMA \[github\]]
@@ -66,7 +67,12 @@ Computer Vision, Machine Learning, Large Multimodal Models, Synthetic Data
 
 == Preprints
 
-- *Samarth Mishra*, C. Castillo, H. Wang, K. Saenko, V. Saligrama. \n 
+- *Samarth Mishra*, K. Saenko and V. Saligrama \n
+	Enhancing Compositional Reasoning in Vision-Language Models \n 
+	with Synthetic Preference Data. \n
+	[https://arxiv.org/abs/2504.04740 \[arxiv\]] [https://github.com/samarth4149/SCRAMBLe \[github\]]
+
+- *Samarth Mishra*, C. Castillo, H. Wang, K. Saenko and V. Saligrama. \n 
 	SynCDR : Training Cross Domain Retrieval Models with Synthetic Data. \n 
 	[https://arxiv.org/abs/2401.00420 \[arxiv\]]\[[https://github.com/samarth4149/SynCDR github]\]
 
