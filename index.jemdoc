@@ -58,6 +58,10 @@ Computer Vision, Machine Learning, Large Multimodal Models, Synthetic Data
 	[https://arxiv.org/abs/2204.08090 \[arxiv\]]
 
 === Workshops
+- *Samarth Mishra*, K. Saenko and V. Saligrama \n
+	SCRAMBLe : Enhancing Multimodal LLM Compositionality \n 
+	with Synthetic Preference Data. \n
+	ICCV 2025 Findings. [https://arxiv.org/abs/2504.04740 \[arxiv\]] [https://github.com/samarth4149/SCRAMBLe \[github\]] [https://samarth4149.github.io/projects/scramble/poster.pdf \[poster\]]
 - D. Kim, K. Saito, *Samarth Mishra*, S. Sclaroff, K. Saenko, and B.Plummer. \n 
 	Self-supervised visual attribute learning for fashion compatibility. \n
 	ICCV 2021 VIPriors Workshop [https://arxiv.org/abs/2008.00348 \[arxiv\]]
@@ -66,11 +70,6 @@ Computer Vision, Machine Learning, Large Multimodal Models, Synthetic Data
 	ICPR 2020 EDL/AI Workshop [https://link.springer.com/chapter/10.1007/978-3-030-68796-0_7 \[springer\]]
 
 == Preprints
-
-- *Samarth Mishra*, K. Saenko and V. Saligrama \n
-	Enhancing Compositional Reasoning in Vision-Language Models \n 
-	with Synthetic Preference Data. \n
-	[https://arxiv.org/abs/2504.04740 \[arxiv\]] [https://github.com/samarth4149/SCRAMBLe \[github\]]
 
 - *Samarth Mishra*, C. Castillo, H. Wang, K. Saenko and V. Saligrama. \n 
 	SynCDR : Training Cross Domain Retrieval Models with Synthetic Data. \n 
